@@ -1,0 +1,104 @@
+# 👥 Usuarios del Sistema AsisTec (Formato Persona)
+
+## 📌 1. Identificación de usuarios
+
+Durante el análisis del sistema **AsisTec**, se identificaron los siguientes tipos de usuarios según su nivel de interacción:
+
+- **Usuarios primarios:** Técnicos de soporte (uso directo y constante del sistema).
+- **Usuarios secundarios:** Administradores y supervisores (gestión y monitoreo).
+- **Usuarios potenciales:** Nuevos técnicos, empresas externas y clientes.
+
+A partir de esta clasificación, se definió un usuario primario específico utilizando la técnica de **Personas**.
+
+---
+
+## 🧍 2. Persona principal (Usuario primario)
+
+### 👤 Carlos Méndez — Técnico de soporte
+
+| Atributo            | Descripción |
+|--------------------|------------|
+| Edad               | 28 años |
+| Ocupación          | Técnico de soporte |
+| Nivel educativo    | Técnico superior / universitario |
+| Nivel tecnológico  | Medio – alto |
+
+### 📌 Descripción general
+Carlos trabaja en una empresa de soporte técnico donde atiende múltiples solicitudes diariamente. Requiere rapidez, organización y precisión al registrar incidencias y dar seguimiento a los casos.
+
+### 🎯 Objetivos
+- Registrar incidencias de forma rápida y eficiente  
+- Consultar historial de reportes fácilmente  
+- Dar seguimiento continuo a los tickets  
+- Reducir errores en el registro de información  
+
+### ⚠️ Necesidades
+- Interfaz clara e intuitiva  
+- Sistema rápido y estable  
+- Organización automática de reportes  
+- Acceso sencillo a información relevante  
+
+### 😤 Frustraciones
+- Sistemas lentos o complicados  
+- Procesos largos para registrar incidencias  
+- Información duplicada o desordenada  
+- Falta de claridad en el seguimiento  
+
+### 🧠 Comportamiento
+- Usa el sistema varias veces al día  
+- Prefiere soluciones rápidas y prácticas  
+- Se adapta fácilmente a herramientas digitales  
+- Prioriza eficiencia sobre estética  
+
+---
+
+## 🧍 3. Persona secundaria
+
+### 👤 Laura Gómez — Administradora del sistema
+
+| Atributo            | Descripción |
+|--------------------|------------|
+| Edad               | 35 años |
+| Ocupación          | Administradora de sistemas |
+| Nivel tecnológico  | Alto |
+
+### 📌 Descripción general
+Laura supervisa el funcionamiento del sistema y el desempeño del equipo técnico. Utiliza la plataforma para gestionar usuarios, revisar reportes y analizar métricas.
+
+### 🎯 Objetivos
+- Monitorear el rendimiento del equipo  
+- Gestionar usuarios y permisos  
+- Obtener reportes claros y confiables  
+
+### ⚠️ Necesidades
+- Acceso a estadísticas y reportes  
+- Control de usuarios del sistema  
+- Información organizada y precisa  
+
+### 😤 Frustraciones
+- Falta de datos claros  
+- Reportes incompletos  
+- Sistemas poco confiables  
+
+---
+
+## 🎯 4. Escenario de uso
+
+**Escenario principal — Técnico de soporte (Carlos Méndez):**
+
+1. Recibe una solicitud de soporte  
+2. Ingresa al sistema AsisTec  
+3. Registra la incidencia  
+4. Asigna prioridad  
+5. Guarda el ticket  
+6. Da seguimiento hasta su resolución  
+
+El sistema permite realizar este proceso de forma ágil, mejorando la productividad y organización.
+
+---
+
+## ✅ 5. Conclusión
+
+El uso del formato **Persona** permitió identificar claramente las características, necesidades y comportamientos de los usuarios del sistema AsisTec.
+
+Esto facilita el desarrollo de una solución centrada en el usuario, mejorando la usabilidad, eficiencia y experiencia general del sistema.
