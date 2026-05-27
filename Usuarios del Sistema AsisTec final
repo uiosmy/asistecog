@@ -1,0 +1,157 @@
+## 👥 Usuarios del Sistema AsisTec
+
+---
+
+## 📌 Identificación de usuarios
+
+En el análisis del sistema **AsisTec** se identificaron tres tipos de usuarios según su nivel de interacción:
+
+### 🔹 Usuarios primarios
+- Técnicos de soporte  
+- Uso directo, constante y operativo del sistema  
+
+### 🔹 Usuarios secundarios
+- Administradores del sistema  
+- Supervisores  
+
+### 🔹 Usuarios potenciales
+- Nuevos técnicos  
+- Empresas externas de soporte  
+- Clientes que requieran seguimiento de incidencias  
+
+---
+
+## 🧍 Usuario primario definido (Persona)
+
+### 👤 Nombre: Carlos Méndez  
+**Edad:** 28 años  
+**Ocupación:** Técnico de soporte  
+**Nivel educativo:** Técnico superior / universitario  
+**Nivel tecnológico:** Medio – alto  
+
+---
+
+### 📌 Descripción
+
+Carlos trabaja en un entorno donde recibe múltiples solicitudes de soporte diariamente. Su desempeño depende de la rapidez con la que registra, organiza y da seguimiento a incidencias.
+
+---
+
+### 🎯 Objetivos
+
+- Registrar incidencias de forma rápida  
+- Consultar historial de tickets  
+- Dar seguimiento eficiente a casos  
+- Reducir errores en la captura de datos  
+
+---
+
+### ⚠️ Necesidades
+
+- Interfaz clara e intuitiva  
+- Sistema rápido y estable  
+- Información organizada  
+- Acceso sencillo a datos relevantes  
+
+---
+
+### 😤 Frustraciones
+
+- Sistemas lentos o complicados  
+- Procesos largos  
+- Información desordenada  
+- Falta de claridad en el seguimiento  
+
+---
+
+### 🧠 Comportamiento
+
+- Uso frecuente del sistema  
+- Preferencia por soluciones rápidas  
+- Alta adaptación a tecnología  
+- Enfoque en eficiencia  
+
+---
+
+## 🧍 Usuario secundario (Persona)
+
+### 👤 Nombre: Laura Gómez  
+**Edad:** 35 años  
+**Ocupación:** Administradora del sistema  
+**Nivel tecnológico:** Alto  
+
+---
+
+### 📌 Descripción
+
+Laura supervisa el funcionamiento del sistema y el desempeño del equipo técnico. Utiliza la plataforma para gestionar usuarios y analizar información.
+
+---
+
+### 🎯 Objetivos
+
+- Monitorear rendimiento del equipo  
+- Gestionar usuarios  
+- Obtener reportes claros  
+
+---
+
+### ⚠️ Necesidades
+
+- Información precisa  
+- Control de accesos  
+- Visualización de datos  
+
+---
+
+### 😤 Frustraciones
+
+- Reportes incompletos  
+- Falta de claridad en datos  
+- Sistemas poco confiables  
+
+---
+
+## 🎯 Escenarios de uso
+
+### 📌 Escenario 1: Registro de incidencia
+
+Carlos recibe una solicitud de soporte técnico.
+
+1. Accede al sistema AsisTec  
+2. Registra los datos del problema  
+3. Asigna prioridad  
+4. Guarda el ticket  
+5. Da seguimiento hasta su resolución  
+
+---
+
+### 📌 Escenario 2: Supervisión del sistema
+
+Laura revisa el desempeño del equipo.
+
+1. Accede al sistema  
+2. Consulta reportes  
+3. Analiza incidencias  
+4. Toma decisiones para mejorar el servicio  
+
+---
+
+## 📊 Información del perfil de usuarios
+
+Se cuenta con información básica y adicional de los usuarios:
+
+- Datos demográficos (edad, ocupación)  
+- Nivel tecnológico  
+- Objetivos y necesidades  
+- Problemas y frustraciones  
+- Comportamiento de uso  
+- Escenarios reales de interacción  
+
+---
+
+## ✅ Conclusión
+
+El análisis de usuarios del sistema **AsisTec** permite identificar claramente los diferentes perfiles involucrados, destacando al técnico de soporte como usuario principal.
+
+La inclusión de personas y escenarios facilita la comprensión del contexto de uso, contribuyendo al diseño de un sistema más eficiente, usable y alineado con las necesidades reales.
