@@ -1,0 +1,129 @@
+## 📁 Artefactos de Requisitos y Evidencia de Cambios
+
+---
+
+## 📌 Descripción general
+
+El sistema **AsisTec** cuenta con un conjunto completo de artefactos que permiten especificar claramente los requerimientos, incluyendo:
+
+- Casos de uso  
+- Historias de usuario  
+- Criterios de aceptación  
+- Identificación de excepciones  
+
+Estos artefactos fueron refinados a lo largo del desarrollo, incorporando mejoras significativas basadas en retroalimentación y análisis del usuario.
+
+---
+
+# 🧩 Casos de Uso
+
+## 📌 CU-01: Registrar incidencia
+
+**Actor:** Técnico de soporte  
+
+### Flujo principal:
+1. El usuario inicia sesión  
+2. Selecciona "Registrar incidencia"  
+3. Ingresa los datos requeridos  
+4. Asigna prioridad  
+5. Guarda el ticket  
+
+### Excepciones:
+- Campos obligatorios vacíos → Se muestra mensaje de error  
+- Error en guardado → Se notifica al usuario  
+- Datos inválidos → Validación del sistema  
+
+---
+
+## 📌 CU-02: Consultar incidencias
+
+**Actor:** Técnico de soporte  
+
+### Flujo principal:
+1. Accede al sistema  
+2. Consulta historial  
+3. Visualiza incidencias  
+
+### Excepciones:
+- No existen registros → Mensaje informativo  
+
+---
+
+# 🧠 Historias de Usuario con Criterios de Aceptación
+
+## 🧾 HU-01: Registro de incidencias
+
+**Historia:**  
+Como **técnico de soporte**, quiero registrar incidencias para mantener control de los problemas.
+
+**Criterios de aceptación:**
+- Campos obligatorios validados  
+- Posibilidad de asignar prioridad  
+- Confirmación de registro exitoso  
+- Almacenamiento correcto de datos  
+
+---
+
+## 🧾 HU-02: Seguimiento de tickets
+
+**Historia:**  
+Como **técnico**, quiero consultar el estado de los tickets para dar seguimiento.
+
+**Criterios de aceptación:**
+- Visualización del estado  
+- Acceso al historial  
+- Actualización de información  
+
+---
+
+# ⚠️ Consideración de Excepciones
+
+Durante el desarrollo se identificaron y documentaron escenarios de error:
+
+- Validación de formularios  
+- Fallos en conexión o almacenamiento  
+- Acceso no autorizado  
+- Datos inconsistentes  
+
+Estas excepciones fueron integradas en los casos de uso para mejorar la robustez del sistema.
+
+---
+
+# 🔄 Resumen de cambios significativos
+
+| Artefacto | Versión anterior | Versión actual | Mejora |
+|----------|----------------|---------------|--------|
+| Casos de uso | Flujo básico | Incluyen excepciones | Mayor detalle |
+| Historias de usuario | Generales | Con criterios de aceptación | Claridad |
+| Validaciones | No consideradas | Implementadas | Reducción de errores |
+| Estructura | Desorganizada | Organizada | Mejor comprensión |
+
+---
+
+# 🔍 Evidencia de cambios
+
+Los cambios realizados pueden verificarse mediante:
+
+- Historial de commits en GitHub  
+- Versiones actualizadas de documentos  
+- Bitácoras de reuniones  
+- Modificaciones en historias de usuario y casos de uso  
+
+---
+
+# 📈 Impacto de los cambios
+
+Las mejoras implementadas permitieron:
+
+- Mayor claridad en los requerimientos  
+- Mejor alineación con necesidades del usuario  
+- Reducción de ambigüedades  
+- Incremento en la calidad del sistema  
+
+---
+
+## ✅ Conclusión
+
+Los artefactos del sistema **AsisTec** presentan una evolución significativa, incorporando mayor detalle, validaciones y estructura.
+
+La evidencia documentada respalda los cambios realizados, demostrando un proceso de desarrollo iterativo, organizado y enfocado en la mejora continua.
