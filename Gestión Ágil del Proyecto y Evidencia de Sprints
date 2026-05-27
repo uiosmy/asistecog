@@ -1,0 +1,144 @@
+
+
+---
+
+## 📌 Organización de Sprints
+
+El desarrollo del sistema **AsisTec** se estructuró en **4 sprints**, cada uno con objetivos, tareas y entregables definidos.
+
+### ⏱️ Tamaño del sprint:
+- Duración: 1 semana por sprint  
+- Total: 4 semanas  
+
+---
+
+## 🧩 Sprint 1: Planeación y Requisitos
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Definir alcance y requisitos |
+| Actividades | Análisis, RF, RNF, historias de usuario |
+| Responsables | María, Juan |
+| Resultado | Documento de requisitos completo |
+
+---
+
+## 🧩 Sprint 2: Diseño
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Diseñar prototipos |
+| Actividades | Wireframes, diseño en Figma |
+| Responsables | María |
+| Resultado | Prototipos del sistema |
+
+---
+
+## 🧩 Sprint 3: Desarrollo
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Implementar funcionalidades |
+| Actividades | Login, registro de incidencias |
+| Responsables | Juan |
+| Resultado | Sistema funcional básico |
+
+---
+
+## 🧩 Sprint 4: Pruebas y documentación
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Validar y documentar |
+| Actividades | Pruebas, documentación final |
+| Responsables | Equipo |
+| Resultado | Sistema final listo |
+
+---
+
+## 🛠️ Herramientas de monitoreo
+
+- GitHub (repositorio y commits)  
+- Trello/Jira (gestión de tareas)  
+- WhatsApp/Meet (comunicación)  
+- Documentos compartidos (bitácoras)  
+
+---
+
+## 📅 Bitácoras de reuniones (resumen)
+
+Cada sprint incluyó reuniones con:
+
+- **Acuerdos definidos**
+- **Asignación de tareas**
+- **Resolución de conflictos**
+- **Fechas límite**
+
+### 📌 Ejemplo:
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 18 mayo |
+| Acuerdo | Priorizar funcionalidades clave |
+| Conflicto | Retraso en desarrollo |
+| Solución | Redistribución de tareas |
+| Resultado | Avance del sistema |
+
+---
+
+## 📈 Métrica de contribución (100%)
+
+| Integrante | Actividad | % |
+|-----------|----------|---|
+| María | Requisitos, diseño, documentación | 50% |
+| Juan | Desarrollo, pruebas | 50% |
+
+### ✔️ Medición objetiva basada en:
+- Tareas realizadas  
+- Complejidad  
+- Evidencias en GitHub  
+- Participación en reuniones  
+
+---
+
+## 🔍 Evidencia en el repositorio
+
+La verificación se realiza mediante:
+
+- Historial de commits  
+- Archivos creados/modificados  
+- Versiones de documentación  
+- Bitácoras de reuniones  
+
+---
+
+## 🔄 Cambios respecto a la entrega anterior
+
+Se realizaron mejoras significativas:
+
+| Elemento | Antes | Ahora |
+|---------|------|------|
+| Requisitos | Generales | Específicos y completos |
+| Casos de uso | Básicos | Con excepciones |
+| Historias | Simples | Con criterios de aceptación |
+| Prototipos | No definidos | Diseñados en Figma |
+| Organización | Parcial | Basada en Scrum |
+
+---
+
+## 📌 Evidencia de mejora en la gestión
+
+Se observa una mejor coordinación debido a:
+
+- Distribución clara de tareas  
+- Uso de metodología ágil  
+- Seguimiento continuo  
+- Mejor comunicación del equipo  
+
+---
+
+## ✅ Conclusión
+
+El proyecto **AsisTec** demuestra una gestión estructurada basada en metodologías ágiles, con evidencia clara de planificación, ejecución, seguimiento y mejora continua.
+
+La inclusión de métricas, sprints, bitácoras y evidencias en el repositorio valida un proceso de desarrollo organizado, colaborativo y medible.
