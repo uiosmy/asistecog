@@ -1,0 +1,124 @@
+## 🧪 Pruebas de Usabilidad (Evidencia)
+
+---
+
+## 📌 Descripción general
+
+Se realizaron **pruebas informales de usabilidad** con usuarios primarios (técnicos de soporte) con el objetivo de evaluar la eficiencia, claridad y facilidad de uso del sistema **AsisTec**.
+
+---
+
+## 👥 Usuarios participantes
+
+- 3 usuarios tipo: Técnicos de soporte  
+- Nivel tecnológico: Medio – alto  
+- Experiencia previa con sistemas similares  
+
+---
+
+## 🎯 Objetivos de la prueba
+
+- Evaluar la facilidad de uso del sistema  
+- Medir el tiempo de realización de tareas  
+- Identificar errores o dificultades  
+- Validar el flujo de registro de incidencias  
+
+---
+
+## 📊 Indicadores evaluados
+
+| Indicador | Descripción | Relación con objetivo |
+|----------|------------|----------------------|
+| Tiempo de tarea | Tiempo en registrar incidencia | Eficiencia |
+| Tasa de error | Número de errores cometidos | Usabilidad |
+| Facilidad de uso | Percepción del usuario | Experiencia |
+| Satisfacción | Nivel de agrado del sistema | Calidad |
+
+✔️ Los indicadores están alineados con los objetivos principales del producto: rapidez, eficiencia y facilidad de uso.
+
+---
+
+## 🧪 Protocolo de prueba
+
+Se definió un protocolo estandarizado para asegurar la replicabilidad:
+
+### 📌 Instrucciones:
+
+1. Explicar brevemente el objetivo de la prueba  
+2. No intervenir durante la interacción  
+3. Registrar tiempos y errores  
+4. Aplicar cuestionario al finalizar  
+
+---
+
+### 📌 Tareas asignadas:
+
+- Tarea 1: Iniciar sesión  
+- Tarea 2: Registrar una incidencia  
+- Tarea 3: Consultar historial  
+
+---
+
+### 📌 Condiciones:
+
+- Mismo dispositivo para todos los usuarios  
+- Mismo escenario de prueba  
+- Sin ayuda externa durante las tareas  
+
+---
+
+## 📋 Resultados (ejemplo)
+
+| Usuario | Tiempo (min) | Errores | Observaciones |
+|--------|-------------|--------|--------------|
+| U1 | 3 | 1 | Duda en formulario |
+| U2 | 2.5 | 0 | Flujo claro |
+| U3 | 4 | 2 | Confusión en prioridad |
+
+---
+
+## 🧠 Hallazgos
+
+- El sistema es intuitivo en general  
+- Se detectaron pequeñas confusiones en formularios  
+- El flujo de registro es rápido  
+- La organización de información es clara  
+
+---
+
+## 📄 Cuestionario de satisfacción
+
+### Escala: 1 (Muy malo) – 5 (Excelente)
+
+1. ¿Qué tan fácil fue usar el sistema?  
+2. ¿El proceso de registro fue claro?  
+3. ¿La interfaz es comprensible?  
+4. ¿El sistema fue rápido?  
+5. ¿Usarías este sistema nuevamente?  
+
+---
+
+### 📊 Resultados generales
+
+- Facilidad de uso: 4.5  
+- Claridad: 4.3  
+- Satisfacción: 4.6  
+
+---
+
+## 🔍 Evidencia
+
+Las pruebas pueden verificarse mediante:
+
+- Registros de resultados  
+- Observaciones documentadas  
+- Cuestionarios aplicados  
+- Evidencia en repositorio  
+
+---
+
+## ✅ Conclusión
+
+Las pruebas de usabilidad permitieron validar que el sistema **AsisTec** cumple con los objetivos de eficiencia, claridad y facilidad de uso.
+
+El protocolo definido garantiza la replicabilidad de las pruebas, mientras que los indicadores permiten una evaluación objetiva del sistema.
