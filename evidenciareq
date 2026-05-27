@@ -1,0 +1,124 @@
+## 📁 Evidencias de Requisitos
+
+En esta sección se presentan los artefactos que permiten especificar y validar los requisitos del sistema **AsisTec**, incluyendo **casos de uso, historias de usuario con criterios de aceptación y excepciones**, así como un diagrama que resume el sistema.
+
+---
+
+# 🧩 Casos de Uso
+
+## 📌 CU-01: Registrar incidencia
+
+**Actor:** Técnico de soporte  
+**Descripción:** Permite registrar un nuevo ticket de soporte  
+
+### Flujo principal:
+1. El usuario inicia sesión  
+2. Selecciona "Registrar incidencia"  
+3. Ingresa los datos requeridos  
+4. Asigna prioridad  
+5. Guarda el ticket  
+
+### Excepciones:
+- Campos obligatorios vacíos → El sistema muestra mensaje de error  
+- Error al guardar → Se notifica al usuario  
+
+---
+
+## 📌 CU-02: Consultar incidencias
+
+**Actor:** Técnico de soporte  
+
+### Flujo principal:
+1. El usuario accede al sistema  
+2. Selecciona "Historial"  
+3. Visualiza lista de incidencias  
+
+### Excepciones:
+- No hay incidencias registradas → Se muestra mensaje informativo  
+
+---
+
+## 📌 CU-03: Gestionar usuarios
+
+**Actor:** Administrador  
+
+### Flujo principal:
+1. Accede al módulo de usuarios  
+2. Crea, edita o elimina usuarios  
+
+### Excepciones:
+- Datos inválidos → El sistema impide guardar cambios  
+
+---
+
+# 🧠 Historias de Usuario con Criterios de Aceptación
+
+## 🧾 HU-01: Registro de incidencias
+
+**Historia:**  
+Como **técnico de soporte**, quiero registrar incidencias para llevar control de los problemas.
+
+**Criterios de aceptación:**
+- El sistema permite ingresar datos obligatorios  
+- Se puede asignar prioridad  
+- El ticket se guarda correctamente  
+- Se muestra confirmación de registro  
+
+---
+
+## 🧾 HU-02: Seguimiento de tickets
+
+**Historia:**  
+Como **técnico**, quiero ver el estado de los tickets para dar seguimiento.
+
+**Criterios de aceptación:**
+- Se visualiza el estado del ticket  
+- Se actualiza la información en tiempo real  
+- Se puede acceder al historial  
+
+---
+
+## 🧾 HU-03: Gestión de usuarios
+
+**Historia:**  
+Como **administrador**, quiero gestionar usuarios para controlar accesos.
+
+**Criterios de aceptación:**
+- Se pueden crear usuarios  
+- Se pueden editar datos  
+- Se pueden eliminar usuarios  
+- Se validan datos antes de guardar  
+
+---
+
+# ⚠️ Consideración de Excepciones
+
+El sistema contempla diferentes escenarios de error para asegurar su correcto funcionamiento:
+
+- Validación de campos obligatorios  
+- Manejo de errores en base de datos  
+- Restricción de accesos no autorizados  
+- Mensajes claros al usuario ante fallos  
+
+---
+
+# 📊 Diagrama de Casos de Uso (Resumen)
+
+```mermaid
+graph TD
+
+A[Técnico de soporte] --> B[Registrar incidencia]
+A --> C[Consultar incidencias]
+A --> D[Dar seguimiento a tickets]
+
+E[Administrador] --> F[Gestionar usuarios]
+E --> G[Visualizar reportes]
+
+B --> H[Asignar prioridad]
+B --> I[Guardar ticket]
+
+C --> J[Ver historial]
+
+F --> K[Crear usuario]
+F --> L[Editar usuario]
+F --> M[Eliminar usuario]
