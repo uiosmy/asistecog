@@ -1,0 +1,50 @@
+## 🎯 Objetivo del Producto
+
+### 📌 Objetivo general
+
+El sistema **AsisTec** tiene como objetivo principal optimizar la gestión de incidencias y solicitudes de soporte técnico mediante una plataforma digital eficiente, intuitiva y accesible, que permita a los técnicos registrar, organizar y dar seguimiento a los casos de manera ágil.
+
+---
+
+### 🎯 Objetivos específicos
+
+- Facilitar el registro de incidencias de forma rápida y estructurada  
+- Centralizar la información de los servicios de soporte  
+- Mejorar el seguimiento y control de tickets  
+- Reducir errores en la captura de datos  
+- Optimizar los tiempos de atención y resolución  
+- Proporcionar herramientas de monitoreo para administradores  
+
+---
+
+## 📌 Alcances del sistema
+
+El sistema **AsisTec** contempla las siguientes funcionalidades dentro de su alcance:
+
+- Registro de incidencias o tickets de soporte  
+- Edición y actualización de información de los casos  
+- Asignación de prioridades a las solicitudes  
+- Seguimiento del estado de los tickets  
+- Gestión básica de usuarios (técnicos y administradores)  
+- Consulta de historial de incidencias  
+- Visualización de información organizada para facilitar la toma de decisiones  
+
+---
+
+## ⚠️ Limitaciones del sistema
+
+El sistema presenta las siguientes limitaciones:
+
+- No incluye integración con sistemas externos (por ejemplo, CRM o plataformas empresariales)  
+- No contempla funcionalidades avanzadas de automatización  
+- El acceso está limitado a usuarios registrados dentro del sistema  
+- No incluye soporte para operación offline  
+- Las capacidades de análisis de datos son básicas  
+
+---
+
+## ✅ Conclusión
+
+La definición del objetivo, junto con los alcances y limitaciones del sistema **AsisTec**, permite establecer una visión clara del producto, delimitando sus funcionalidades y evitando ambigüedades durante su desarrollo.
+
+Esto contribuye a una mejor planificación, implementación y evaluación del sistema, asegurando que cumpla con las necesidades principales de los usuarios.
