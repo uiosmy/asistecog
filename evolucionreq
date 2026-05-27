@@ -1,0 +1,105 @@
+## 🔄 Evolución de Requisitos y Evidencias
+
+---
+
+## 📌 Descripción general
+
+Durante el desarrollo del sistema **AsisTec**, los requisitos y artefactos asociados (casos de uso, historias de usuario y diagramas) fueron refinados de manera iterativa.
+
+Se documentaron cambios significativos derivados de:
+
+- Retroalimentación del equipo  
+- Limitaciones técnicas identificadas  
+- Ajustes en el alcance del proyecto  
+- Mejora en la comprensión de las necesidades del usuario  
+
+---
+
+# 🧩 Artefactos de Requisitos
+
+## 📌 Casos de Uso (Versión actualizada)
+
+### CU-01: Registrar incidencia
+
+**Actor:** Técnico de soporte  
+
+**Flujo principal:**
+1. Inicia sesión  
+2. Ingresa datos de incidencia  
+3. Asigna prioridad  
+4. Guarda el ticket  
+
+**Excepciones:**
+- Campos vacíos → mensaje de error  
+- Fallo en guardado → notificación al usuario  
+
+---
+
+## 🧠 Historias de Usuario (Actualizadas)
+
+### HU-01: Registro de incidencias
+
+**Historia:**  
+Como **técnico de soporte**, quiero registrar incidencias para llevar control de los problemas.
+
+**Criterios de aceptación:**
+- Se validan campos obligatorios  
+- Se permite asignar prioridad  
+- Se confirma el registro exitoso  
+
+---
+
+### HU-02: Seguimiento de tickets
+
+**Historia:**  
+Como **técnico**, quiero visualizar el estado de los tickets para dar seguimiento.
+
+**Criterios de aceptación:**
+- Se muestra estado actualizado  
+- Se permite consultar historial  
+
+---
+
+# ⚠️ Consideración de Excepciones
+
+Se identificaron escenarios adicionales durante el desarrollo:
+
+- Datos inválidos en formularios  
+- Problemas de conexión  
+- Accesos no autorizados  
+- Errores en persistencia de datos  
+
+Estos fueron integrados en los casos de uso y validaciones del sistema.
+
+---
+
+# 🔄 Cambios significativos en los artefactos
+
+| Elemento | Versión inicial | Versión actual | Motivo del cambio |
+|---------|---------------|---------------|------------------|
+| Registro de incidencias | Sin validaciones | Con validación de campos | Evitar errores |
+| Prioridad de tickets | No incluida | Incluida | Mejor organización |
+| Historias de usuario | Generales | Más específicas | Claridad |
+| Casos de uso | Básicos | Con excepciones | Mayor robustez |
+
+---
+
+# 📊 Diagrama de Casos de Uso (Actualizado)
+
+```mermaid
+graph TD
+
+A[Técnico] --> B[Registrar incidencia]
+A --> C[Consultar incidencias]
+A --> D[Seguimiento de tickets]
+
+E[Administrador] --> F[Gestionar usuarios]
+
+B --> G[Validar datos]
+B --> H[Asignar prioridad]
+
+C --> I[Ver historial]
+
+F --> J[Crear usuario]
+F --> K[Editar usuario]
+F --> L[Eliminar usuario]
