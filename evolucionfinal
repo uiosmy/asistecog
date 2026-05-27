@@ -1,0 +1,93 @@
+## 🔄 Resumen de Cambios entre Entregas (1ª, 2ª y 3ª)
+
+---
+
+## 📌 Descripción general
+
+El sistema **AsisTec** presentó una evolución progresiva a lo largo de las tres entregas, pasando de una propuesta inicial conceptual a un producto estructurado, validado y con evidencia de desarrollo.
+
+---
+
+## 🧩 Primera entrega → Segunda entrega
+
+### 🔹 Cambios principales:
+
+- **Requisitos**
+  - Antes: Generales y poco definidos  
+  - Después: RF y RNF estructurados y claros  
+
+- **Usuarios**
+  - Antes: Identificación básica  
+  - Después: Definición de persona (perfil completo + escenarios)  
+
+- **Artefactos**
+  - Antes: Limitados  
+  - Después: Inclusión de casos de uso e historias de usuario  
+
+- **Organización**
+  - Antes: General  
+  - Después: Introducción de metodología ágil (Scrum adaptado)  
+
+---
+
+## 🧩 Segunda entrega → Tercera entrega
+
+### 🔹 Cambios principales:
+
+- **Requisitos**
+  - Antes: Definidos  
+  - Después: Refinados con criterios de aceptación y excepciones  
+
+- **Prototipos**
+  - Antes: Básicos o inexistentes  
+  - Después: Diseño en Figma (baja, media y alta fidelidad)  
+
+- **Sprints**
+  - Antes: Planeación inicial  
+  - Después: Evidencia completa (actividades, roles, resultados)  
+
+- **Pruebas**
+  - Antes: No consideradas  
+  - Después: Pruebas de usabilidad con indicadores y resultados  
+
+- **Gestión**
+  - Antes: Parcial  
+  - Después: Bitácoras, monitoreo y mejor coordinación  
+
+- **Métricas**
+  - Antes: No definidas  
+  - Después: Distribución del 100% de contribución con evidencia  
+
+---
+
+## 🚀 Evolución global del proyecto
+
+A lo largo de las entregas, el proyecto evolucionó en:
+
+- Claridad de los requerimientos  
+- Enfoque centrado en el usuario  
+- Organización del equipo  
+- Implementación de metodología ágil  
+- Calidad de diseño e interfaces  
+- Validación mediante pruebas  
+- Evidencia objetiva del trabajo  
+
+---
+
+## 🔍 Evidencia de los cambios
+
+Los cambios pueden verificarse mediante:
+
+- Historial de commits en GitHub  
+- Versiones de documentos  
+- Prototipos en Figma  
+- Bitácoras de reuniones  
+- Resultados de pruebas de usabilidad  
+
+---
+
+## ✅ Conclusión
+
+El sistema **AsisTec** muestra una evolución clara y significativa entre entregas, pasando de una fase conceptual a un producto estructurado, validado y con evidencia completa.
+
+Cada iteración permitió mejorar la calidad del sistema, alineándolo progresivamente con las necesidades del usuario y los objetivos del proyecto.
