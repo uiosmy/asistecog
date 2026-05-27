@@ -1,0 +1,53 @@
+## 🔄 Resumen de Cambios entre Entregas
+
+Durante el desarrollo del sistema **AsisTec**, se realizaron mejoras significativas entre la primera y segunda entrega, evidenciando un proceso iterativo y de mejora continua.
+
+### 📌 Cambios más relevantes
+
+- **Requisitos del sistema**
+  - Antes: Definiciones generales  
+  - Ahora: Requisitos funcionales y no funcionales completos, estructurados y validados  
+
+- **Historias de usuario**
+  - Antes: Redacción básica  
+  - Ahora: Incluyen criterios de aceptación claros  
+
+- **Casos de uso**
+  - Antes: Flujo simple  
+  - Ahora: Integran excepciones y validaciones  
+
+- **Prototipos**
+  - Antes: No definidos  
+  - Ahora: Diseños en Figma con estructura y guía de diseño  
+
+- **Metodología**
+  - Antes: Organización básica  
+  - Ahora: Implementación de Scrum adaptado con sprints definidos  
+
+- **Gestión del equipo**
+  - Antes: Distribución poco clara  
+  - Ahora: Roles definidos, tareas asignadas y seguimiento continuo  
+
+- **Documentación**
+  - Antes: Parcial  
+  - Ahora: Completa, estructurada y alineada con la rúbrica  
+
+---
+
+### 🔍 Evidencia de los cambios
+
+Los cambios realizados pueden verificarse mediante:
+
+- Historial de commits en GitHub  
+- Actualización de archivos y documentación  
+- Bitácoras de reuniones  
+- Versiones de prototipos  
+- Organización de tareas en herramientas de seguimiento  
+
+---
+
+## ✅ Conclusión
+
+Los cambios implementados reflejan una evolución clara del proyecto, mejorando la calidad del sistema **AsisTec** tanto a nivel técnico como organizativo.
+
+Se cuenta con evidencia verificable que respalda cada mejora realizada, demostrando un proceso de desarrollo estructurado y progresivo.
