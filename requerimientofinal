@@ -1,0 +1,97 @@
+## 📈 Mejora y Organización de Requerimientos
+
+---
+
+## 📌 Descripción general
+
+En la presente entrega del sistema **AsisTec**, se cuenta con un conjunto de **requerimientos funcionales (RF) y no funcionales (RNF)** mejor definidos, organizados y estructurados en comparación con la entrega anterior.
+
+Esta mejora refleja una mayor comprensión del problema, del usuario y de los procesos involucrados en el sistema.
+
+---
+
+## 🔄 Evolución de los requerimientos
+
+### Antes:
+- Requisitos generales y poco detallados  
+- Falta de estructura clara  
+- Escasa diferenciación entre RF y RNF  
+- Limitada relación con necesidades del usuario  
+
+### Ahora:
+- Requisitos claramente definidos y organizados  
+- Clasificación adecuada en funcionales y no funcionales  
+- Descripciones específicas y comprensibles  
+- Integración de historias de usuario y criterios de aceptación  
+
+---
+
+## 🧠 Mayor claridad de las necesidades del usuario
+
+A partir del análisis de usuarios (personas y escenarios), se logró:
+
+- Identificar necesidades reales del técnico de soporte  
+- Comprender los problemas en el registro y seguimiento de incidencias  
+- Definir funcionalidades alineadas al flujo de trabajo del usuario  
+
+Esto permitió que los requerimientos respondan directamente a situaciones reales de uso.
+
+---
+
+## ⚙️ Claridad en los procesos del cliente
+
+Los procesos del sistema fueron mejor definidos mediante:
+
+- Casos de uso estructurados  
+- Escenarios de interacción  
+- Identificación de excepciones  
+
+Esto facilita entender cómo el usuario interactúa con el sistema y cómo se resuelven las tareas.
+
+---
+
+## 🎯 Priorización alineada a objetivos
+
+Los requerimientos fueron priorizados utilizando el método **MoSCoW**, asegurando que:
+
+- Los requisitos **Must** corresponden a las funcionalidades esenciales  
+- Los requisitos **Should** aportan valor adicional  
+- Los requisitos **Could** complementan la experiencia  
+
+### 📌 Ejemplo de alineación:
+
+- Registro de incidencias → Objetivo principal → **Alta prioridad (Must)**  
+- Reportes → Funcionalidad secundaria → **Media/Baja prioridad (Could)**  
+
+---
+
+## 📊 Coherencia entre objetivos y requerimientos
+
+Se logró una alineación clara entre:
+
+- Objetivo del sistema  
+- Necesidades del usuario  
+- Funcionalidades implementadas  
+- Prioridades establecidas  
+
+Esto asegura que el desarrollo se enfoque en lo realmente importante.
+
+---
+
+## 🔍 Evidencia de mejora
+
+La evolución de los requerimientos puede verificarse mediante:
+
+- Versiones actualizadas de documentación  
+- Cambios en historias de usuario  
+- Ajustes en casos de uso  
+- Priorización refinada  
+- Evidencia en commits del repositorio  
+
+---
+
+## ✅ Conclusión
+
+El conjunto de requerimientos del sistema **AsisTec** presenta una mejora significativa en claridad, organización y alineación con los objetivos del producto.
+
+Esta evolución permite contar con una base sólida para el desarrollo del sistema, asegurando que las funcionalidades implementadas respondan de manera efectiva a las necesidades del usuario.
