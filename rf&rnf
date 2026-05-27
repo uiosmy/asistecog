@@ -1,0 +1,72 @@
+## 📋 Requisitos del Sistema
+
+---
+
+# 🔧 Requisitos Funcionales (RF)
+
+Los **Requisitos Funcionales (RF)** describen las acciones y funcionalidades que el sistema **AsisTec** debe realizar.
+
+### 📌 Lista de Requisitos Funcionales
+
+| ID   | Requisito | Descripción |
+|------|----------|------------|
+| RF-01 | Registro de usuarios | El sistema debe permitir el registro de técnicos y administradores |
+| RF-02 | Inicio de sesión | El sistema debe permitir a los usuarios autenticarse |
+| RF-03 | Registro de incidencias | El técnico podrá registrar nuevos tickets de soporte |
+| RF-04 | Edición de incidencias | El usuario podrá modificar información de un ticket |
+| RF-05 | Eliminación de incidencias | El sistema permitirá eliminar tickets registrados |
+| RF-06 | Asignación de prioridad | El usuario podrá asignar niveles de prioridad (alta, media, baja) |
+| RF-07 | Seguimiento de tickets | El sistema mostrará el estado de cada incidencia |
+| RF-08 | Consulta de historial | El usuario podrá visualizar incidencias anteriores |
+| RF-09 | Gestión de usuarios | El administrador podrá crear, editar y eliminar usuarios |
+| RF-10 | Visualización de reportes | El sistema mostrará información organizada de incidencias |
+
+---
+
+## 🧠 Historias de Usuario
+
+- Como **técnico de soporte**, quiero registrar incidencias rápidamente para mantener un control eficiente de los problemas.  
+- Como **técnico de soporte**, quiero consultar el historial de tickets para dar seguimiento adecuado a los casos.  
+- Como **técnico de soporte**, quiero asignar prioridades a las incidencias para atender primero las más urgentes.  
+- Como **administrador**, quiero gestionar usuarios para controlar el acceso al sistema.  
+- Como **administrador**, quiero visualizar reportes para evaluar el desempeño del servicio.  
+
+---
+
+# ⚙️ Requisitos No Funcionales (RNF)
+
+Los **Requisitos No Funcionales (RNF)** definen las características de calidad del sistema.
+
+---
+
+## 📌 Lista de Requisitos No Funcionales
+
+| ID   | Categoría | Requisito | Verificación |
+|------|----------|----------|-------------|
+| RNF-01 | Usabilidad | El sistema debe ser intuitivo y fácil de usar | Pruebas de usabilidad con usuarios |
+| RNF-02 | Rendimiento | El tiempo de respuesta debe ser menor a 2 segundos | Pruebas de rendimiento |
+| RNF-03 | Seguridad | El sistema debe requerir autenticación para el acceso | Validación de login |
+| RNF-04 | Disponibilidad | El sistema debe estar disponible el 95% del tiempo | Monitoreo del sistema |
+| RNF-05 | Escalabilidad | El sistema debe soportar múltiples usuarios simultáneos | Pruebas de carga |
+| RNF-06 | Mantenibilidad | El código debe ser modular y fácil de actualizar | Revisión del código |
+| RNF-07 | Compatibilidad | El sistema debe funcionar en distintos navegadores | Pruebas en diferentes browsers |
+| RNF-08 | Integridad de datos | La información debe almacenarse correctamente sin pérdida | Pruebas de base de datos |
+
+---
+
+## 🧪 Verificación de los RNF
+
+Cada requisito no funcional cuenta con un criterio de verificación que permite validar su cumplimiento mediante:
+
+- Pruebas técnicas (rendimiento, carga)  
+- Evaluaciones con usuarios (usabilidad)  
+- Validaciones del sistema (seguridad, integridad)  
+- Pruebas en distintos entornos (compatibilidad)  
+
+---
+
+## ✅ Conclusión
+
+El conjunto de **Requisitos Funcionales y No Funcionales** del sistema AsisTec es claro, completo y consistente, permitiendo definir tanto las funcionalidades principales como los estándares de calidad del sistema.
+
+Esto asegura una base sólida para el desarrollo, implementación y evaluación del sistema.
