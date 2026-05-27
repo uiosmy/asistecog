@@ -1,0 +1,156 @@
+## 📊 Monitoreo, Seguimiento y Coordinación del Proyecto
+
+---
+
+## 📌 Herramientas de monitoreo utilizadas
+
+Durante el desarrollo del sistema **AsisTec**, se emplearon diversas herramientas para asegurar el seguimiento y control del proyecto:
+
+- **GitHub**
+  - Control de versiones  
+  - Registro de avances (commits)  
+  - Evidencia de contribuciones  
+
+- **Trello / Jira (simulado)**
+  - Organización de tareas por estado  
+  - Asignación de responsables  
+  - Seguimiento del progreso  
+
+- **Google Meet / WhatsApp**
+  - Comunicación del equipo  
+  - Coordinación de reuniones  
+
+- **Documentos compartidos**
+  - Registro de acuerdos  
+  - Bitácoras de reuniones  
+
+---
+
+## 🗂️ Actividades y tareas
+
+Las actividades del proyecto fueron organizadas en tareas específicas:
+
+- Definición de requisitos  
+- Diseño de interfaces  
+- Desarrollo del sistema  
+- Pruebas de usabilidad  
+- Documentación  
+
+Cada tarea fue asignada a un responsable con fecha límite definida.
+
+---
+
+## 📅 Bitácoras de reuniones
+
+Se documentaron reuniones del equipo donde se registraron acuerdos, tareas, responsables y resolución de conflictos.
+
+---
+
+### 📝 Reunión 1
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 10 mayo 2026 |
+| Objetivo | Definir alcance |
+| Acuerdos | Sistema de gestión de incidencias |
+| Tareas | Definir requisitos |
+| Responsables | María |
+| Fecha límite | 12 mayo |
+| Conflicto | Diferencias en enfoque |
+| Resolución | Se eligió la opción más viable |
+| Resultado | Definición del proyecto |
+
+---
+
+### 📝 Reunión 2
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 13 mayo 2026 |
+| Objetivo | Establecer requisitos |
+| Acuerdos | Crear RF y RNF |
+| Tareas | Redacción de requisitos |
+| Responsables | María / Juan |
+| Fecha límite | 15 mayo |
+| Conflicto | Alcance de funcionalidades |
+| Resolución | Se limitaron a lo esencial |
+| Resultado | Requisitos definidos |
+
+---
+
+### 📝 Reunión 3
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 18 mayo 2026 |
+| Objetivo | Revisar avances |
+| Acuerdos | Priorizar funciones clave |
+| Tareas | Desarrollo login e incidencias |
+| Responsables | Juan / María |
+| Fecha límite | 20 mayo |
+| Conflicto | Retrasos |
+| Resolución | Redistribución de tareas |
+| Resultado | Avance del sistema |
+
+---
+
+### 📝 Reunión 4
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 22 mayo 2026 |
+| Objetivo | Validación final |
+| Acuerdos | Realizar pruebas |
+| Tareas | Testing y documentación |
+| Responsables | Equipo |
+| Fecha límite | 24 mayo |
+| Conflicto | Formato de entrega |
+| Resolución | Unificación de estructura |
+| Resultado | Sistema listo |
+
+---
+
+## 📈 Evidencia de mejor coordinación
+
+A lo largo del desarrollo se observa una mejora significativa en la gestión del equipo:
+
+### 🔄 Antes:
+- Tareas poco definidas  
+- Comunicación limitada  
+- Seguimiento irregular  
+
+### 🚀 Después:
+- Tareas claramente asignadas  
+- Comunicación constante  
+- Seguimiento estructurado  
+- Mejor cumplimiento de fechas  
+
+---
+
+## 🧠 Impacto en el proceso
+
+La mejora en la coordinación permitió:
+
+- Mayor eficiencia en el desarrollo  
+- Reducción de retrasos  
+- Mejor organización del trabajo  
+- Mayor claridad en responsabilidades  
+
+---
+
+## 🔍 Evidencia verificable
+
+La coordinación y seguimiento del proyecto pueden comprobarse mediante:
+
+- Bitácoras de reuniones  
+- Historial de commits en GitHub  
+- Organización de tareas  
+- Documentación del proyecto  
+
+---
+
+## ✅ Conclusión
+
+El uso de herramientas de monitoreo, junto con la documentación de bitácoras y la asignación clara de tareas, permitió mejorar significativamente la coordinación del equipo en el desarrollo del sistema **AsisTec**.
+
+Esto se refleja en un proceso más organizado, eficiente y orientado al cumplimiento de objetivos.
