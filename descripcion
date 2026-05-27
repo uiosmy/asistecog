@@ -1,0 +1,107 @@
+## ⚙️ Proceso de Desarrollo
+
+---
+
+## 📌 Enfoque general
+
+El desarrollo del sistema **AsisTec** se llevó a cabo mediante una **adaptación de la metodología ágil Scrum**, con el objetivo de organizar el trabajo del equipo de forma iterativa, flexible y centrada en la entrega continua de valor.
+
+---
+
+## 🧩 Metodología utilizada: Scrum (Adaptado)
+
+Se utilizó Scrum como base, adaptando sus elementos a las necesidades y tamaño del equipo.
+
+### 🔄 Características del enfoque ágil aplicado:
+
+- Desarrollo iterativo por incrementos  
+- Entregas parciales funcionales  
+- Retroalimentación continua  
+- Priorización de tareas según valor  
+- Flexibilidad ante cambios  
+
+---
+
+## 👥 Organización del equipo
+
+El equipo se estructuró con roles definidos para asegurar una correcta distribución del trabajo:
+
+### 🧑‍💼 Product Owner
+- Define los requisitos del sistema  
+- Prioriza el backlog  
+- Representa las necesidades del usuario  
+
+### 🧑‍💻 Scrum Master
+- Coordina al equipo  
+- Facilita el proceso ágil  
+- Elimina impedimentos  
+
+### 👨‍🔧 Equipo de desarrollo
+- Implementa funcionalidades  
+- Diseña y construye el sistema  
+- Realiza pruebas y validaciones  
+
+---
+
+## 📋 Responsabilidades del equipo
+
+| Rol | Responsabilidades |
+|-----|------------------|
+| Product Owner | Definición de requisitos, priorización |
+| Scrum Master | Organización, seguimiento del proceso |
+| Desarrollo | Programación, pruebas, documentación |
+
+---
+
+## 🗂️ Organización del trabajo
+
+El trabajo se organizó en **sprints**, los cuales permitieron dividir el proyecto en etapas manejables.
+
+### 📌 Actividades realizadas en cada sprint:
+
+1. **Planeación del sprint**
+   - Selección de tareas del backlog  
+   - Definición de objetivos  
+
+2. **Desarrollo**
+   - Implementación de funcionalidades  
+   - Trabajo colaborativo  
+
+3. **Revisión**
+   - Evaluación de resultados  
+   - Validación de funcionalidades  
+
+4. **Retroalimentación**
+   - Identificación de mejoras  
+   - Ajustes para el siguiente sprint  
+
+---
+
+## 🧠 Adaptación de la metodología
+
+Debido al contexto académico del proyecto, Scrum fue adaptado de la siguiente manera:
+
+- No se realizaron reuniones diarias formales, pero sí seguimiento constante  
+- Los sprints se ajustaron a los tiempos de entrega de la materia  
+- Se simplificó la documentación para enfocarse en lo esencial  
+- Se priorizó el aprendizaje y la funcionalidad del sistema  
+
+---
+
+## 🚀 Evidencia de uso de metodología ágil
+
+Se identifica claramente el uso de un enfoque ágil en el proyecto debido a:
+
+- Uso de **historias de usuario** como base de los requisitos  
+- Priorización de tareas (método MoSCoW)  
+- Desarrollo incremental del sistema  
+- Adaptación continua según avances  
+- Enfoque en necesidades del usuario  
+
+---
+
+## ✅ Conclusión
+
+El uso de una metodología ágil como Scrum permitió organizar el desarrollo del sistema **AsisTec** de manera eficiente, favoreciendo la colaboración, la adaptabilidad y la entrega continua de valor.
+
+La adaptación del método al contexto académico facilitó su aplicación práctica, manteniendo sus principios fundamentales.
