@@ -1,0 +1,90 @@
+## 📊 Método de Priorización de Requisitos
+
+---
+
+## 📌 Enfoque utilizado
+
+Para la priorización de los requisitos e historias de usuario del sistema **AsisTec**, se utilizó una combinación de:
+
+- **Método MoSCoW** (Must, Should, Could, Won’t)
+- **Análisis de valor vs esfuerzo**
+
+Esto permitió evaluar cada requerimiento considerando:
+
+- **Importancia para el usuario**
+- **Impacto en el funcionamiento del sistema**
+- **Complejidad de implementación**
+- **Factibilidad técnica**
+
+---
+
+## 🧩 Método MoSCoW
+
+Los requisitos se clasificaron de la siguiente manera:
+
+- **Must (Debe tener):** Funcionalidades esenciales sin las cuales el sistema no funciona  
+- **Should (Debería tener):** Funcionalidades importantes pero no críticas  
+- **Could (Podría tener):** Funcionalidades opcionales que aportan valor adicional  
+- **Won’t (No se implementará por ahora):** Funcionalidades fuera del alcance actual  
+
+---
+
+## 📋 Priorización de Requisitos Funcionales
+
+| ID   | Requisito | Prioridad | Justificación |
+|------|----------|----------|--------------|
+| RF-01 | Registro de usuarios | Must | Es necesario para el acceso al sistema |
+| RF-02 | Inicio de sesión | Must | Garantiza seguridad y control de acceso |
+| RF-03 | Registro de incidencias | Must | Funcionalidad principal del sistema |
+| RF-04 | Edición de incidencias | Must | Permite corregir y actualizar información |
+| RF-05 | Eliminación de incidencias | Should | Útil, pero no crítica |
+| RF-06 | Asignación de prioridad | Must | Permite organizar el trabajo |
+| RF-07 | Seguimiento de tickets | Must | Esencial para el control de incidencias |
+| RF-08 | Consulta de historial | Should | Mejora la gestión de información |
+| RF-09 | Gestión de usuarios | Should | Importante para administración |
+| RF-10 | Visualización de reportes | Could | Aporta valor, pero no es esencial |
+
+---
+
+## 🧠 Priorización de Historias de Usuario
+
+| Historia de Usuario | Prioridad | Justificación |
+|--------------------|----------|--------------|
+| Registrar incidencias rápidamente | Must | Núcleo del sistema |
+| Consultar historial de tickets | Should | Mejora seguimiento |
+| Asignar prioridades | Must | Permite organización del trabajo |
+| Gestionar usuarios | Should | Importante para control |
+| Visualizar reportes | Could | Apoyo para toma de decisiones |
+
+---
+
+## ⚖️ Análisis de valor vs esfuerzo
+
+Se realizó un análisis considerando:
+
+- **Alto valor / Bajo esfuerzo → Prioridad alta (Must)**
+- **Alto valor / Alto esfuerzo → Prioridad media (Should)**
+- **Bajo valor / Bajo esfuerzo → Prioridad baja (Could)**
+
+### 📌 Ejemplo de análisis
+
+- Registro de incidencias → Alto valor / Bajo esfuerzo → **Must**  
+- Reportes → Medio valor / Alto esfuerzo → **Could**  
+
+---
+
+## 🧪 Factibilidad de los requerimientos
+
+Los requisitos fueron evaluados en términos de:
+
+- **Factibilidad técnica:** Uso de tecnologías accesibles y conocidas  
+- **Factibilidad operativa:** Facilidad de uso para los usuarios  
+- **Factibilidad de tiempo:** Posibilidad de implementación dentro del periodo del proyecto  
+
+---
+
+## ✅ Conclusión
+
+La priorización de requisitos del sistema **AsisTec** se realizó mediante un método estructurado que considera tanto la importancia como la factibilidad de cada funcionalidad.
+
+Esto permite enfocar el desarrollo en los elementos críticos del sistema, optimizando recursos y asegurando la entrega de un producto funcional y alineado con las necesidades del usuario.
