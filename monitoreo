@@ -1,0 +1,172 @@
+## 📊 Monitoreo y Seguimiento del Proyecto
+
+---
+
+## 📌 Herramientas utilizadas
+
+Para el seguimiento y organización del desarrollo del sistema **AsisTec**, se utilizaron las siguientes herramientas:
+
+- **GitHub**
+  - Control de versiones
+  - Gestión de repositorio
+  - Evidencia de avances
+
+- **Trello / Jira (simulado)**
+  - Organización de tareas por estado (pendiente, en proceso, terminado)
+  - Asignación de responsables
+
+- **Google Meet / WhatsApp**
+  - Comunicación del equipo
+  - Reuniones de seguimiento
+
+- **Documentos compartidos**
+  - Registro de acuerdos
+  - Bitácoras de reuniones
+
+---
+
+## 🗂️ Actividades y tareas
+
+Las principales actividades del equipo fueron:
+
+- Definición de requisitos  
+- Diseño del sistema  
+- Desarrollo de funcionalidades  
+- Pruebas del sistema  
+- Documentación del proyecto  
+
+Cada actividad fue dividida en tareas específicas asignadas a los integrantes del equipo.
+
+---
+
+## 📅 Bitácoras de reuniones
+
+A continuación se presentan evidencias de reuniones del equipo, incluyendo acuerdos, tareas y seguimiento.
+
+---
+
+### 📝 Reunión 1: Planeación inicial
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 10 de mayo 2026 |
+| Objetivo | Definir alcance del proyecto |
+| Participantes | Equipo completo |
+
+**Acuerdos:**
+- Definir el sistema como gestor de incidencias  
+- Usar metodología ágil (Scrum adaptado)  
+
+**Tareas asignadas:**
+
+| Tarea | Responsable | Fecha límite |
+|------|------------|-------------|
+| Definir requisitos | María | 12 mayo |
+| Investigar herramientas | Juan | 12 mayo |
+
+**Conflictos:**
+- Diferencias en el enfoque del sistema  
+**Resolución:** Se eligió la opción más viable basada en tiempo y complejidad  
+
+**Resultado:**
+- Definición clara del proyecto  
+
+---
+
+### 📝 Reunión 2: Definición de requisitos
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 13 de mayo 2026 |
+| Objetivo | Establecer requisitos del sistema |
+
+**Acuerdos:**
+- Definir requisitos funcionales y no funcionales  
+- Crear historias de usuario  
+
+**Tareas:**
+
+| Tarea | Responsable | Fecha límite |
+|------|------------|-------------|
+| Redacción de RF | María | 15 mayo |
+| Redacción de RNF | Juan | 15 mayo |
+
+**Conflictos:**
+- Dudas sobre alcance de funcionalidades  
+**Resolución:** Se limitaron a funcionalidades esenciales  
+
+**Resultado:**
+- Lista de requisitos completa  
+
+---
+
+### 📝 Reunión 3: Desarrollo
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 18 de mayo 2026 |
+| Objetivo | Revisión de avances |
+
+**Acuerdos:**
+- Continuar con desarrollo por módulos  
+- Priorizar funcionalidades principales  
+
+**Tareas:**
+
+| Tarea | Responsable | Fecha límite |
+|------|------------|-------------|
+| Desarrollo login | Juan | 20 mayo |
+| Registro incidencias | María | 20 mayo |
+
+**Conflictos:**
+- Retrasos en una tarea  
+**Resolución:** Redistribución de carga de trabajo  
+
+**Resultado:**
+- Avance funcional del sistema  
+
+---
+
+### 📝 Reunión 4: Pruebas y cierre
+
+| Elemento | Detalle |
+|---------|--------|
+| Fecha | 22 de mayo 2026 |
+| Objetivo | Validación final |
+
+**Acuerdos:**
+- Realizar pruebas del sistema  
+- Ajustar errores detectados  
+
+**Tareas:**
+
+| Tarea | Responsable | Fecha límite |
+|------|------------|-------------|
+| Pruebas de sistema | Equipo | 23 mayo |
+| Documentación final | María | 24 mayo |
+
+**Conflictos:**
+- Diferencias en formato de entrega  
+**Resolución:** Se unificó estructura del proyecto  
+
+**Resultado:**
+- Sistema listo para entrega  
+
+---
+
+## 📈 Seguimiento del proyecto
+
+El seguimiento se realizó mediante:
+
+- Revisión periódica de tareas  
+- Actualización de avances en repositorio  
+- Comunicación constante del equipo  
+- Evaluación de cumplimiento de fechas  
+
+---
+
+## ✅ Conclusión
+
+El uso de herramientas de monitoreo y la elaboración de bitácoras permitió llevar un control claro del desarrollo del sistema **AsisTec**, evidenciando la organización del equipo, la asignación de responsabilidades y la resolución de conflictos.
+
+Esto asegura un proceso estructurado, colaborativo y orientado a resultados.
