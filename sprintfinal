@@ -1,0 +1,125 @@
+## 🚀 Evidencia de Sprints y Evolución del Proceso
+
+---
+
+## 📌 Descripción general
+
+El desarrollo del sistema **AsisTec** se organizó mediante sprints, permitiendo una planificación estructurada, seguimiento continuo y mejora progresiva del proceso.
+
+Se cuenta con evidencia explícita de cada sprint, incluyendo tamaño, planeación, actividades, responsables, roles y resultados.
+
+---
+
+## ⏱️ Tamaño de los sprints
+
+- Duración: 1 semana  
+- Total de sprints: 4  
+- Enfoque: Incremental y iterativo  
+
+---
+
+## 🧩 Evidencia de Sprints
+
+### 🔹 Sprint 1: Planeación y requisitos
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Definir alcance del sistema |
+| Actividades | Análisis, RF, RNF, historias de usuario |
+| Roles | Product Owner, Equipo |
+| Responsables | María, Juan |
+| Resultado | Documento de requisitos |
+
+---
+
+### 🔹 Sprint 2: Diseño
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Crear prototipos |
+| Actividades | Wireframes, diseño en Figma |
+| Roles | Diseñador, Equipo |
+| Responsables | María |
+| Resultado | Interfaces del sistema |
+
+---
+
+### 🔹 Sprint 3: Desarrollo
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Implementar funcionalidades |
+| Actividades | Login, registro de incidencias |
+| Roles | Desarrollador |
+| Responsables | Juan |
+| Resultado | Sistema funcional básico |
+
+---
+
+### 🔹 Sprint 4: Pruebas y cierre
+
+| Elemento | Detalle |
+|---------|--------|
+| Objetivo | Validación del sistema |
+| Actividades | Pruebas, documentación |
+| Roles | Equipo completo |
+| Responsables | María, Juan |
+| Resultado | Sistema final listo |
+
+---
+
+## 🔄 Evolución del proceso de desarrollo
+
+A lo largo del proyecto se identificaron y aplicaron mejoras significativas en la gestión y ejecución del proceso.
+
+---
+
+## 📊 Cambios significativos
+
+| Aspecto | Antes | Después | Mejora |
+|--------|------|--------|--------|
+| Organización | General | Basada en sprints | Mejor control |
+| Requisitos | Poco claros | Definidos y estructurados | Claridad |
+| Comunicación | Esporádica | Constante | Coordinación |
+| Tareas | No definidas | Asignadas por sprint | Responsabilidad |
+| Seguimiento | Limitado | Continuo | Control del avance |
+
+---
+
+## 🧠 Ajustes realizados durante el desarrollo
+
+- Redistribución de tareas para evitar retrasos  
+- Priorización de funcionalidades clave  
+- Mejora en la definición de requisitos  
+- Incorporación de retroalimentación del equipo  
+- Ajuste en tiempos de entrega  
+
+---
+
+## 📈 Evidencia de mejora en la gestión
+
+Se observa una evolución clara del proceso debido a:
+
+- Mejor planificación de actividades  
+- Definición clara de roles  
+- Seguimiento estructurado del trabajo  
+- Reducción de errores organizativos  
+
+---
+
+## 🔍 Evidencia verificable
+
+Los cambios en el proceso pueden comprobarse mediante:
+
+- Bitácoras de reuniones  
+- Historial de commits en GitHub  
+- Documentación actualizada  
+- Organización de tareas en herramientas de seguimiento  
+
+---
+
+## ✅ Conclusión
+
+El uso de sprints en el desarrollo del sistema **AsisTec** permitió una organización clara del trabajo, así como una mejora progresiva del proceso.
+
+Los cambios implementados evidencian una evolución en la gestión del proyecto, logrando mayor eficiencia, coordinación y control en el desarrollo del producto.
