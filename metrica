@@ -1,0 +1,91 @@
+## 📊 Métrica de Contribución del Equipo
+
+---
+
+## 📌 Enfoque de medición
+
+Para evaluar la participación de cada integrante del equipo en el desarrollo del sistema **AsisTec**, se estableció una métrica basada en la **distribución del 100% del trabajo total**, considerando:
+
+- Actividades realizadas  
+- Tareas completadas  
+- Artefactos generados  
+- Evidencias en el repositorio (commits, archivos, documentación)  
+
+La medición se basa en elementos **objetivos y verificables**.
+
+---
+
+## ⚖️ Distribución de contribuciones
+
+| Integrante | Actividades principales | % Contribución |
+|-----------|------------------------|----------------|
+| María | Requisitos, documentación, personas, README | 50% |
+| Juan | Desarrollo, funcionalidades, pruebas | 50% |
+
+> ⚠️ Nota: La distribución se realizó considerando la carga de trabajo real y los entregables generados.
+
+---
+
+## 🧩 Criterios de evaluación
+
+La contribución de cada integrante se evaluó con base en:
+
+- **Cantidad de tareas completadas**
+- **Complejidad de las actividades**
+- **Calidad de los entregables**
+- **Participación en reuniones**
+- **Cumplimiento de fechas**
+
+---
+
+## 📁 Artefactos considerados
+
+Para medir la contribución se tomaron en cuenta los siguientes artefactos:
+
+- Documento de requisitos (RF y RNF)  
+- Historias de usuario  
+- Diseño del sistema  
+- Código fuente  
+- Documentación en GitHub  
+- Bitácoras de reuniones  
+
+---
+
+## 🔍 Trazabilidad y verificación
+
+La verificación de contribuciones se puede rastrear mediante:
+
+- **Commits en GitHub** (autor y cambios realizados)  
+- **Historial de versiones del repositorio**  
+- **Archivos creados/modificados por cada integrante**  
+- **Bitácoras de reuniones (asignación de tareas)**  
+
+---
+
+## 📌 Ejemplo de evidencia
+
+| Actividad | Responsable | Evidencia |
+|----------|------------|----------|
+| Requisitos del sistema | María | Archivo README / commits |
+| Desarrollo login | Juan | Código en repositorio |
+| Historias de usuario | María | Documentación |
+| Pruebas del sistema | Juan | Resultados documentados |
+
+---
+
+## 📈 Método de cálculo
+
+La contribución total se calculó de la siguiente forma:
+
+- Se identificaron todas las tareas del proyecto  
+- Se asignó cada tarea a un integrante  
+- Se evaluó su peso según complejidad  
+- Se sumaron los porcentajes individuales hasta completar el 100%  
+
+---
+
+## ✅ Conclusión
+
+La implementación de una métrica basada en actividades, tareas y artefactos permitió evaluar de manera objetiva la participación de cada integrante del equipo.
+
+Además, el uso de evidencias en el repositorio garantiza la transparencia y trazabilidad de las contribuciones, fortaleciendo la validez del trabajo colaborativo en el desarrollo del sistema **AsisTec**.
