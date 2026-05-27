@@ -1,0 +1,135 @@
+
+
+## 🎯 Incremento evaluado
+
+**Incremento:** Módulo de Registro y Seguimiento de Incidencias  
+
+Incluye:
+- Registro de tickets  
+- Asignación de prioridad  
+- Consulta de incidencias  
+
+---
+
+## 🧩 Criterios del Definition of Done
+
+Un incremento se considera **"Done"** cuando cumple con TODOS los siguientes criterios:
+
+---
+
+### 🔧 1. Funcionalidad
+
+- La funcionalidad cumple con los **Requisitos Funcionales (RF)** definidos  
+- Las historias de usuario asociadas están completamente implementadas  
+- Se cumplen los **criterios de aceptación**  
+
+✔️ Ejemplo: El usuario puede registrar una incidencia con todos los campos obligatorios
+
+---
+
+### 🧪 2. Pruebas
+
+- Se realizaron pruebas funcionales  
+- No existen errores críticos  
+- Los errores detectados fueron corregidos  
+
+✔️ Ejemplo: Registro de incidencias probado con usuarios
+
+---
+
+### 🎨 3. Interfaz de usuario (UI/UX)
+
+- La interfaz cumple con las guías de diseño definidas  
+- Es consistente con los prototipos de Figma  
+- Es usable e intuitiva  
+
+✔️ Ejemplo: Formulario claro, validaciones visibles
+
+---
+
+### ⚙️ 4. Requisitos No Funcionales
+
+- Cumple con criterios de:
+  - Usabilidad  
+  - Rendimiento  
+  - Seguridad básica  
+
+✔️ Ejemplo: Tiempo de respuesta menor a 2 segundos
+
+---
+
+### 📄 5. Documentación
+
+- La funcionalidad está documentada en el repositorio  
+- Incluye:
+  - Descripción  
+  - Casos de uso  
+  - Historias de usuario  
+
+✔️ Ejemplo: README actualizado
+
+---
+
+### 🔍 6. Control de calidad
+
+- Código revisado (revisión básica)  
+- Sin errores evidentes  
+- Estructura clara y mantenible  
+
+---
+
+### 📦 7. Integración
+
+- El incremento funciona correctamente dentro del sistema completo  
+- No rompe funcionalidades existentes  
+
+✔️ Ejemplo: Registro de incidencias conectado con historial
+
+---
+
+### 👥 8. Validación con usuario
+
+- Se probó con al menos un usuario  
+- Se obtuvo retroalimentación  
+- Se realizaron ajustes si fueron necesarios  
+
+---
+
+### 📊 9. Evidencia en repositorio
+
+- Existe evidencia verificable:
+  - Commits  
+  - Archivos  
+  - Documentación  
+  - Bitácoras  
+
+---
+
+## ⭐ Características de un DoD de calidad
+
+Este DoD cumple con los principios de calidad porque:
+
+- Es **claro y específico**  
+- Es **medible y verificable**  
+- Es **consistente con los objetivos del producto**  
+- Aplica a **todos los incrementos del sistema**  
+- Garantiza un nivel mínimo de calidad  
+
+---
+
+## 🔄 Aplicación del DoD en el proyecto
+
+Durante el desarrollo de **AsisTec**, este DoD permitió:
+
+- Asegurar entregas completas  
+- Evitar funcionalidades incompletas  
+- Mantener calidad constante  
+- Facilitar la evaluación del progreso  
+
+---
+
+## ✅ Conclusión
+
+El Definition of Done definido para el sistema **AsisTec** establece criterios claros y verificables que garantizan la calidad de cada incremento.
+
+Su aplicación permitió mantener un proceso ordenado, asegurando que cada funcionalidad entregada cumpla con los estándares necesarios para ser considerada finalizada.
